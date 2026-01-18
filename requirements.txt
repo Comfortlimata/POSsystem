@@ -1,0 +1,5 @@
+# Minimal requirements
+# The application uses only Python standard library modules (tkinter, sqlite3).
+# Include pyinstaller here if you plan to build an EXE.
+pyinstaller
+

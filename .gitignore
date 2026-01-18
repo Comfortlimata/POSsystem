@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Database files
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+bar_sales_backup_*.db
+test_bar_sales.db
+test_new_db.py
+
+# Backup files
+*.backup
+data/backup_*.json
+
+# Logs
+*.log
+data/audit.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build artifacts
+*.spec
+build/
+dist/
+
+# Exports (optional - uncomment if you don't want to track exports)
+# exports/
+
+# Sensitive data
+config.ini
+.env
+
